@@ -178,7 +178,7 @@ footer {
   border-radius: 12px;
   -moz-appearance: none;
   -webkit-appearance: none;
-  appearance: none;
+  appearance: none;/*tells the browser how to interpret the element*/
   background-color: #fff;
   background-image: url("../images/select-arrow.svg");
   background-repeat: no-repeat, repeat;
