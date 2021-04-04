@@ -14,6 +14,7 @@ var taskFormHandler = function(event) {
     return false;
   }
   
+  //resets the form
   formEl.reset();
 
   // reset form fields for next task to be entered
