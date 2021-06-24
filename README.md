@@ -16,7 +16,9 @@
   * [Questions](#questions)
 
   ## Installation
-  * 1. Fork repo. * 2. Clone repo to local. * 3. Deploy to gitpages and use. 
+  1. Fork repo. 
+  2. Clone repo to local. 
+  3. Deploy to gitpages and use. 
 
   ## Usage
   On git Pages you can update and delete tasks on the To-Do list. Make sure it is deployed to Git pages.
